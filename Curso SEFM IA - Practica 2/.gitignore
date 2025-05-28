@@ -1,5 +1,0 @@
-# Ignorar raw data
-data/raw/
-
-# Mantener processed data trackeado
-!data/processed/
